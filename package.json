@@ -1,11 +1,11 @@
 {
-  "name": "emoji-mart-vue-fast",
+  "name": "emoji-mart-vue-fast-japanese",
   "version": "0.0.1",
   "description": "Customizable Slack-like emoji picker for VueJS, fast version",
   "main": "dist/emoji-mart.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:serebrov/emoji-mart-vue.git"
+    "url": "git@github.com:powerwlsl/emoji-mart-vue.git"
   },
   "keywords": [
     "vue",
@@ -13,12 +13,12 @@
     "emoji",
     "picker"
   ],
-  "author": "Etienne Lemay",
+  "author": "hyejin ahn",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/serebrov/emoji-mart-vue/issues"
+    "url": "https://github.com/powerwlsl/emoji-mart-vue/issues"
   },
-  "homepage": "https://github.com/serebrov/emoji-mart-vue",
+  "homepage": "https://github.com/powerwlsl/emoji-mart-vue",
   "dependencies": {
     "@babel/polyfill": "7.2.5",
     "@babel/runtime": "7.3.4",
